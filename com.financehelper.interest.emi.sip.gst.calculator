@@ -7,7 +7,7 @@
   "is_qureka_btn": false,
   "is_extrascreen": false,
   "is_same_url": true,
-  "is_check_utm": false,
+  "is_check_utm": true,
   "is_inter_after_qureka": false,
   "apilink": "",
   "app_name": "SS002 - Cash Loan - Emi Caluclator",
