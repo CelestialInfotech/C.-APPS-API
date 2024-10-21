@@ -46,6 +46,7 @@
   "top_native_template":"large",
   "center_native_template":"medium",
   "bottom_native_template":"small",
+  "back_qureka_link":["https://www.atmegame.com/"],
   "og_am_appOpen": "ca-app-pub-3940256099942544/9257395921",
   "og_am_banner": "ca-app-pub-3940256099942544/6300978111",
   "og_am_interstitial": ["ca-app-pub-3940256099942544/1033173712"],
