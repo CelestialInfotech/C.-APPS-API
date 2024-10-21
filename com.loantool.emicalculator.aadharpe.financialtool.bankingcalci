@@ -1,4 +1,4 @@
-
+x`
 {
   "is_adshow": true,
   "is_admob": true,
@@ -41,7 +41,7 @@
   "emailid": "null",
   "app_version": "2.0.0",
   "utm": ["fbclid","google"],
-  "native_template":"small",
+  "native_template":"medium",
   "og_am_appOpen": "ca-app-pub-3940256099942544/9257395921",
   "og_am_banner": "ca-app-pub-3940256099942544/6300978111",
   "og_am_interstitial": ["ca-app-pub-3940256099942544/1033173712"],
