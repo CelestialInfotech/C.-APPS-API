@@ -9,6 +9,7 @@
   "is_check_utm": true,
   "is_inter_after_qureka": false,
   "show_2_appopen":true,
+  "ctr":"5",
   "apilink": "",
   "app_name": "AadharPe - Emi Caluclator",
   "app_link": "https://play.google.com/store/apps/details?id=com.loantool.emicalculator.aadharpe.financialtool.bankingcalci",
