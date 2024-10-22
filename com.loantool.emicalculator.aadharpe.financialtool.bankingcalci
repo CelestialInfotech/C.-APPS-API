@@ -8,7 +8,7 @@
   "is_same_url": true,
   "is_check_utm": true,
   "is_inter_after_qureka": false,
-  "show_2_appopen":false,
+  "show_2_appopen":true,
   "ctr":"5",
   "imprestion_count_after":"10",
   "back_admob":false,
