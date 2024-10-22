@@ -43,7 +43,7 @@
   "more_applink": "",
   "emailid": "null",
   "app_version": "2.0.0",
-  "utm": ["fbclid","google1"],
+  "utm": ["fbclid","google"],
   "campaignId":["123"],
   "top_native_template":"large",
   "center_native_template":"medium",
