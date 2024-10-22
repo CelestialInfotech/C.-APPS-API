@@ -43,7 +43,7 @@
   "og_am_appOpen": "/21952429235,23177159509/be_com.emi.loantool.bankcalci.financetool.loan_banner",
   "og_am_banner": "/21952429235,23177159509/be_com.emi.loantool.bankcalci.financetool.loan_open",
   "og_am_interstitial": ["/21952429235,23177159509/be_com.emi.loantool.bankcalci.financetool.loan_interstitial"],
-  "og_am_back_interstitial": ["/21952429235,23177159509/be_com.emi.loantool.bankcalci.financetool.loan_interstitial"],
+  "og_am_back_interstitial": [],
   "og_am_native":[],
   "og_am_native_banner": [],
   "facebook_app_id":"568578615733499",
