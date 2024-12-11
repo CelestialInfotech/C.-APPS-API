@@ -11,7 +11,7 @@
   "show_2_appopen":false,
   "ctr":"5",
   "imprestion_count_after":"10",
-  "back_admob":false,
+  "back_admob":true,
   "apilink": "https://play.google.com/store/apps/details?id=com.emi.loantool.bankcalci.financetool.loan.cashloan.bankingcal",
   "app_name": "CashLoan - Emi Caluclator",
   "app_link": "https://play.google.com/store/apps/details?id=com.loantool.emicalculator.aadharpe.financialtool.bankingcalci",
