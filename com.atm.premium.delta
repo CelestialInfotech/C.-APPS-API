@@ -1,6 +1,6 @@
 {
   "monthly_key":"atm_premium.subscription",
-  "yearly_key":"",
+  "yearly_key":"atm_premium.year",
   "timestamp":4,
   "maintenance":false
 }
