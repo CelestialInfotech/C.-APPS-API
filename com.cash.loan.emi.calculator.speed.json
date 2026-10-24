@@ -1,0 +1,45 @@
+
+{
+  "utm": [
+    "google"
+  ],
+  "amAppOpen": "ca-app-pub-3940256099942544/9257395921",
+  "amBanner": "ca-app-pub-3940256099942544/6300978111",
+  "amRewarded": "ca-app-pub-3940256099942544/5224354917",
+  "amInterstitial": [
+    "ca-app-pub-3940256099942544/1033173712"
+  ],
+  "amBackInterstitial": [
+    "ca-app-pub-3940256099942544/1033173712"
+  ],
+  "amNative": [
+    "ca-app-pub-3940256099942544/2247696110"
+  ],
+  "ogAmAppOpen": "ca-app-pub-3940256099942544/9257395921",
+  "ogAmBanner": "ca-app-pub-3940256099942544/6300978111",
+  "ogAmInterstitial": [
+    "ca-app-pub-3940256099942544/1033173712"
+  ],
+  "ogAmBackInterstitial": [
+    "ca-app-pub-3940256099942544/1033173712"
+  ],
+  "ogAmNative": [
+    "ca-app-pub-3940256099942544/2247696110"
+  ],
+  "click": -1,
+  "backclick": 1,
+  "totalClicks": 1,
+  "totalImpressions": 1,
+  "CTR": 0.0,
+  "totalfbClicks": 1,
+  "totalfbImpressions": 1,
+  "isAdmob": true,
+  "isAdshow": true,
+  "isUpdate": false,
+  "isQurekaShow": true,
+  "isQurekaBtn": true,
+  "isExtrascreen": true,
+  "isSameUrl": true,
+  "isCheckUtm": true,
+  "backadmob": true
+}
